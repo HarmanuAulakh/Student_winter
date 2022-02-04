@@ -23,5 +23,10 @@ public class CardDealer
         
         Card sphere = new Card("sphere",10);
         sphere.setSuit("Heart");
+        
+        Card aeiou = new Card("Squad",11);
+        sphere.setSuit("sparrow");
+        
+                
     }
 }

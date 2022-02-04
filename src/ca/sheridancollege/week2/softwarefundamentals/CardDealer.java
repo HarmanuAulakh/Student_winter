@@ -21,6 +21,7 @@ public class CardDealer
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
         
-        Card sphere = new Card("clbs",10);
+        Card sphere = new Card("sphere",10);
+        sphere.setSuit("Heart");
     }
 }

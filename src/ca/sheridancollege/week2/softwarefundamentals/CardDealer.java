@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/*
+Harmandeep Singh Aulakh
+991661615
+*/
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
@@ -15,5 +20,7 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+        
+        Card sphere = new Card("clbs",10);
     }
 }
